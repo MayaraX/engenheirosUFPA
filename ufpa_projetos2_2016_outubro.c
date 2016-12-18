@@ -46,4 +46,7 @@ int main() {
         
 	puts("201606840008 - Janilson Alfaia da Serra -http://lattes.cnpq.br/5758869224344643 \n");
 	puts("Vi o Futuro e Fiz dele a minha Morada."
+	    
+	puts("201607040005 - Mayara Xerfan Gomes -  http://lattes.cnpq.br/7799312739515110\n");
+	puts("Toda conquista começa com a decisão de tentar.\n");
 }
